@@ -1,0 +1,4 @@
+name: LimboPluginExample-Commands
+main: com.gamerduck.examples.CommandExampleMain
+version: 1.0
+author: GamerDuck123
